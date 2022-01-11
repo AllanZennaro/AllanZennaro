@@ -2,7 +2,7 @@
 <br>
 👨🏻‍💻 &nbsp;About Me<br>
 💡 &nbsp; I'm a software developer.<br>
-💻 &nbsp;I'm currently performing and studying modern web technnoligies in order to provide the best solutions to enterprise problems.<br>
+💻 &nbsp;I'm currently performing and studying modern web technologies in order to provide the best solutions to enterprise problems.<br>
 🎓&nbsp;I study Computer Science at Universidade Estácio de Sá.<br>
 🌱 &nbsp;I'm on track for learning more about Web Development, Data Science, and Game Programming.<br>
 ✍️ &nbsp;In my free time, I play videogames, read books and hang out with friends.<br>
