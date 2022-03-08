@@ -1,7 +1,7 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! Welcome to my GitHub profile !
 <br>
 👨🏻‍💻 &nbsp;About Me<br>
-💡 &nbsp; I'm a software developer.<br>
+💡 &nbsp; I'm a Frontend Developer. Currently pursuing knowledge to become Full Stack Developer.<br>
 💻 &nbsp;I'm currently performing and studying modern web technologies in order to provide the best solutions to enterprise problems.<br>
 🎓&nbsp;I study Computer Science at Universidade Estácio de Sá.<br>
 🌱 &nbsp;I'm on track for learning more about Web Development, Data Science, and Game Programming.<br>
