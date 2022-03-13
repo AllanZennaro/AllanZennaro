@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I play videogames, read books and hang out with friends.<br>
 💬 &nbsp;Feel free to reach out to me for job opportunities!<br>
 ✉️ &nbsp;You can email me at allanzennarodeve@hotmail.com. I'll try to respond as soon as possible!<br>
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about me.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1BqBPwgkAkfm_X51nC-EL208NWiB08T9j/view) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
