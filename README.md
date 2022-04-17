@@ -2,8 +2,8 @@
 <br>
 👨🏻‍💻 &nbsp;About Me<br>
 💡 &nbsp; I'm a Data Analyst. Currently pursuing knowledge to become Data Engineer.<br>
-💻 &nbsp;I'm currently performing and studying modern technologies in order to provide the best solutions to enterprise problems.<br>
-🎓&nbsp;I study Computer Science at Universidade Estácio de Sá.<br>
+💻 &nbsp;I'm currently performing and studying modern technologies in order to provide the best solutions to many problems.<br>
+🎓&nbsp;I study Computer Science at Universidade Estácio de Sá and I study at DataCamp to enhance my skills.<br>
 🌱 &nbsp;I'm on track for learning more about Data Science, Machine Learning, Business Intelligence and Databases.<br>
 ✍️ &nbsp;In my free time, I play videogames, read books and hang out with friends.<br>
 💬 &nbsp;Feel free to reach out to me for job opportunities!<br>
@@ -19,6 +19,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 
 ### 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/allan-timbo-zennaro-103899204/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
